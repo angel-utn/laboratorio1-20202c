@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1604099970 source:/home/angel/UTN/Github/laboratorio1-20202c/Clase 13/EjemploTP/funciones.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1604102120 /home/angel/UTN/Github/laboratorio1-20202c/Clase 13/EjemploTP/funciones.h
+
+1604102327 source:/home/angel/UTN/Github/laboratorio1-20202c/Clase 13/EjemploTP/main.cpp
+	<iostream>
+	"rlutil.h"
+	"funciones.h"
+
+1604095255 /home/angel/UTN/Github/laboratorio1-20202c/Clase 13/EjemploTP/rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
